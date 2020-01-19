@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "welcome to jenkins"
-
+====================
 echo "list file"
 ls -lrt
 touch t7
